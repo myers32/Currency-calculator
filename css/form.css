@@ -18,7 +18,7 @@
 }
 
 .form__legend:hover {
-    background-color: hsl(7, 66%, 36%);
+    background-color: #982d1f;
 }
 
 .form__labelText {
@@ -46,11 +46,11 @@
 }
 
 .form__button:hover {
-    background-color: hsl(7, 66%, 36%);
+    background-color: #982d1f;
 }
 
 .form__button:active {
-    background-color: hsl(7, 66%, 46%);
+    background-color: #c33a28;
 }
 
 .form__result {
