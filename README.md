@@ -7,7 +7,7 @@ It is made for the training purposes, I am student at online coding school [YouC
 
 ## *What do this project contain?*
 
-This project contains the HTML, CSS and JavaScript languages.
+This project contains the HTML, CSS and JavaScript.
 
 ## *What's the purpose?*
 
