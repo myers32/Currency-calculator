@@ -66,3 +66,7 @@
     border-radius: 5px;
     border-color: #868686;
 }
+
+.form__result:hover {
+    background-color: hsl(7, 65%, 36%);
+}
