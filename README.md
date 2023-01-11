@@ -11,7 +11,7 @@ This project contains the HTML, CSS and JavaScript.
 
 ## *What's the purpose?*
 
-The purpose of it is to calculate the currency form PLN to: 
+The purpose of it is to calculate the currency from PLN to: 
 - USD,
 - EURO,
 - GBP.
