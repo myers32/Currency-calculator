@@ -36,6 +36,11 @@
     border-radius: 5px;
 }
 
+.form__paragraph {
+    text-align: center;
+    padding: 5px;
+}
+
 .form__button {
     width: 100%;
     border: none;
